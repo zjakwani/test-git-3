@@ -1,2 +1,2 @@
 text here
-my new feature
+merge conflict fixed! my new feature
